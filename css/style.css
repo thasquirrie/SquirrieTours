@@ -862,7 +862,7 @@ body {
       padding: 20rem 0; } }
 
 .section-features {
-  background: linear-gradient(to right, rgba(126, 213, 111, 0.9), rgba(40, 180, 133, 0.8)), url("../../img/nat-4.jpg") top center/cover;
+  background: linear-gradient(to right, rgba(126, 213, 111, 0.9), rgba(40, 180, 133, 0.8)), url("../img/nat-4.jpg") top center/cover;
   padding: 20rem 0;
   transform: skewY(-7deg);
   margin-top: -12rem; }
